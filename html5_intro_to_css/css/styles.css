@@ -1,0 +1,66 @@
+html {
+    background-color: rgb(61, 194, 121);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    width: 1200px;
+    margin: 20px auto;
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    display: block;
+    margin: 20px auto;
+    width: 35%;
+}
+
+nav {
+    background-color: rgb(240, 156, 205);
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    margin: 0 20px;
+}
+
+nav a:hover {
+    color: rgb(221, 20, 20);
+    text-decoration: none;
+}
+
+main{
+    padding: 20px;
+}
+
+main img {
+    display: block;
+    margin: 20px auto;
+    width: 30%;
+}
+
+footer {
+    background-color: rgb(209, 106, 132);
+    text-align: center;
+    padding: 40px 0;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: crimson;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    color: rgb(219, 14, 192);
+}
